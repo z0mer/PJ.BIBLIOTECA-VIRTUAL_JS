@@ -18,9 +18,12 @@ Como sou encantada pelo mundo da leitura, decidi criar uma biblioteca virtual, p
     <img align="center" alt="script" src=	"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
 </div>
 
-## ✨ Vídeo Funcionando ✨
+## ✨ Vídeos Funcionando ✨
 
-
+|                        |                        |                        |
+|------------------------|------------------------|------------------------|
+| <img src="https://github.com/z0mer/PJ.BIBLIOTECA-VIRTUAL_JS/blob/main/img/GIF1.gif" width="200" height ="350">  | <img src="https://github.com/z0mer/PJ.BIBLIOTECA-VIRTUAL_JS/blob/main/img/GIF2.gif" width="200" height ="350">  | <img src="https://github.com/z0mer/PJ.BIBLIOTECA-VIRTUAL_JS/blob/main/img/GIF3.gif" width="200" height ="350"> |
+ 
 
 ## 🧑🏻‍💻 Autora do Projeto 🧑🏻‍💻
 
