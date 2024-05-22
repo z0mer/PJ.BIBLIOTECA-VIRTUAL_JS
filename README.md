@@ -1,38 +1,24 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084&text=📚%20Biblioteca%20Virtual%20em%20ReactJS%20📚&section=header&reversal=false&fontSize=30&fontColor=FFCBDB&fontAlignY=65)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FFD700&text=📚%20Biblioteca%20Virtual%20em%20ReactJS%20📚&section=header&reversal=false&fontSize=30&fontColor=FFFF52&fontAlignY=65)
 
 ## 📈 Objetivo 📈
 
-O objetivo do jogo de perguntas é oferecer uma experiência divertida e educativa aos jogadores, enquanto exploram seus conhecimentos em diversos temas. Com três níveis de dificuldade - fácil, médio e difícil - cada um com cinco perguntas e uma pergunta final, os jogadores têm a oportunidade de testar suas habilidades e aprender novos conceitos.
+A ideia do projeto, é criar um aplicativo de no mínimo 04 telas, onde o tema é livre. 
+
+## ✨ Motivação ✨
+Como sou encantada pelo mundo da leitura, decidi criar uma biblioteca virtual, parecido com o skoob, onde posso cadastrar minhas leiturs já realizadas e as que ainda desejo realizar.
 
 ## 📚 Itens Utilizados 📚
 
 ### Tecnologias 👾
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white">
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
+  <img align="center" alt="react" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="firebase" src=	"https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+    <img align="center" alt="expo" src=	"https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
+    <img align="center" alt="script" src=	"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
 </div>
 
-### Código 👾
-
-<details>
-
-<summary>Navegação entre as telas</summary>
-
-| No. | Códigos com telas                                                                                                                                                                                                              |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                                                                                                                                                                                                                 
-| 1   | [App.js](#what-is-react)                                                                                                                                                                                                 |
-| 2   | [PaginaLogado.js](#What-is-the-history-behind-React-evolution)                                                                                                                                       |
-| 3   | [Biblioteca.js](#what-are-the-major-features-of-react)                                                                                                                                                   |
-| 4   | [CadastrarLeitura.js](#what-is-jsx)                                                                                                                                                                                                     |
-| 5   | [Estante.js](#what-is-the-difference-between-element-and-component)                                                                                                                   |
-| 6   | [TBR.js](#how-to-create-components-in-react)                                                                                                                                                         |
-| 7   | [CadastrarTBR.js](#when-to-use-a-class-component-over-a-function-component)                                                                                                             |
-| 8   | [Estante.js](#what-are-pure-components)                                                                                                                                                                           |
-                                          
-</details>
-
-#### App.js
+## ✨ Vídeo Funcionando ✨
 
 
 
@@ -41,4 +27,4 @@ O objetivo do jogo de perguntas é oferecer uma experiência divertida e educati
 #### Anna Carolina Zomer ⬇️
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/z0mer)
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0084&text=👋🏻%20Até%20a%20Próxima!!%20👋🏻&section=footer&reversal=false&fontSize=30&fontColor=FFCBDB&fontAlignY=40)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FFD700&text=👋🏻%20Até%20a%20Próxima!!%20👋🏻&section=footer&reversal=false&fontSize=30&fontColor=FFFF52&fontAlignY=40)
